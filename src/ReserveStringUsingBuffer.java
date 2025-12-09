@@ -1,4 +1,4 @@
-public class ReserveStringUsingBuufer {
+public class ReserveStringUsingBuffer {
 
     public static void main(String[] args) {
         StringBuffer sbuff = new StringBuffer("Ghjkahdiwu");
